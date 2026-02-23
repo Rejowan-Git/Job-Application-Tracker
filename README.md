@@ -66,7 +66,7 @@ This project is a Job Application Tracker web application built using HTML, CSS,
 ## Features
 
 - Dashboard with Total, Interview, and Rejected counts
-- Tab system (All, Interview, Rejected
+- Tab system (All, Interview, Rejected)
 - Dynamic job filtering
 - Status update (Not Applied → Interview → Rejected)
 - Toggle between Interview and Rejected
