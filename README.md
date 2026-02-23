@@ -58,5 +58,24 @@ Example: Prevent form submission.
 stopPropagation() stops the event from bubbling to parent elements.
 
 They solve different problems.
+
 # Job-Application-Tracker
 This project is a Job Application Tracker web application built using HTML, CSS, and Vanilla JavaScript.  Users can track their job applications by marking them as Interview or Rejected. The dashboard dynamically updates the total number of jobs, interview count, and rejected count.  The design is fully responsive for mobile devices.
+## Live Site Link
+([Add your Netlify/Vercel link here](https://rejowan-git.github.io/Job-Application-Tracker/))
+## Features
+
+- Dashboard with Total, Interview, and Rejected counts
+- Tab system (All, Interview, Rejected
+- Dynamic job filtering
+- Status update (Not Applied → Interview → Rejected)
+- Toggle between Interview and Rejected
+- Delete functionality
+- Empty state message with icon
+- Fully responsive design
+
+## Technologies Used
+
+- HTML
+- CSS (Vanilla)
+- JavaScript (Vanilla)
